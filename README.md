@@ -1,10 +1,10 @@
-## Online Shopping Front-End Project (E-commerce)
+##  :pushpin: Online Shopping Front-End Project (E-commerce)
 
 <br>
 
 ### This project is a front-end implementation of an online shopping website (E-commerce).
 ### It provides a user-friendly interface for browsing products, adding them to the cart, and completing the purchase process.
-<br>
+
 
 ### Features
 #### Browse products by categories
