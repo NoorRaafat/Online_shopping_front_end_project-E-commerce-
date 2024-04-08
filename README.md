@@ -5,8 +5,9 @@
 ### This project is a front-end implementation of an online shopping website (E-commerce).
 ### It provides a user-friendly interface for browsing products, adding them to the cart, and completing the purchase process.
 
+<br>
 
-### Features
+### ⌛ Features
 #### Browse products by categories
 #### View product details including name, description, price, and image
 #### Add products to the shopping cart
@@ -15,7 +16,7 @@
 #### Responsive design for different screen sizes
 <br>
 
-### Technologies Used
+### 🦪 Technologies Used
 #### HTML5
 #### CSS3
 #### JavaScript (ES6)
@@ -24,7 +25,7 @@
 #### Project Structure
 <br>
 
-### The project structure is organized as follows:
+### 🙋 The project structure is organized as follows:
 
 #### index.html: The main HTML file containing the structure of the website.
 #### styles/: Directory containing CSS files for styling.
@@ -32,7 +33,7 @@
 #### images/: Directory containing images used in the project.
 #### fonts/: Directory containing font files.
 
-### How to Use
+###  🧠 How to Use
 Clone the repository to your local machine:
 
 bash
@@ -46,7 +47,7 @@ Open the index.html file in your web browser.
 Start browsing products, adding them to your cart, and proceed to checkout.
 
 
-### Contributing
+### 🙏 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
